@@ -18,7 +18,7 @@
 
  
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3> GitHub Stats </h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andressasmedeiros&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF5AA4&text_color=FFF&border_radius=3&border_color=FF5AA4&icon_color=FF5AA4&theme=jolly" alt="GitHub stats">
 
@@ -53,7 +53,7 @@
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/github-contribution-grid-snake-dracula.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/github-contribution-grid-snake-dracula.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/github-contribution-grid-snake.svg">
 </picture>
