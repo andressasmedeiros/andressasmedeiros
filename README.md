@@ -8,20 +8,13 @@
 #
 <p align="center">👋🏽 Sou Andressa Medeiros, uma profissional com 11 anos de experiência nas áreas de pedagogia, tecnologia e vendas. Estou embarcando em uma emocionante transição de carreira. Minha paixão pela tecnologia me levou a buscar novos horizontes, e estou ansiosa para mergulhar de cabeça nesse universo.  💻
 
-<p align="center">Estou constantemente em busca de novos conhecimentos e desafios, sempre em um processo de desenvolvimento contínuo. Me dedico estudando tecnologias, combinando habilidades tanto no Frontend quanto no Backend e atualmente estou participando da turma FullStack Clamed V3 pelo DEVinHouse - SENAI. 👩🏽‍💻✏️ 
+<p align="center">Estou constantemente em busca de novos conhecimentos e desafios, sempre em um processo de desenvolvimento contínuo. Me dedico estudando tecnologias, combinando habilidades tanto no Frontend quanto no Backend e atualmente estou participando da turma Full Stack Clamed V3 pelo DEVinHouse - SENAI. 👩🏽‍💻✏️ 
 
 <p align="center">Minha jornada até agora me deu habilidades valiosas, como comunicação eficaz e resolução de problemas. Agora, estou pronta para aplicar essas habilidades em projetos inovadores e desafiadores. 🚀
 
 <p align="center">🌟 Estou aberta a oportunidades que me permitam crescer e aprender, fazendo parte de uma equipe apaixonada por criar soluções impactantes. Se você procura alguém determinado e entusiasmado, estou pronta para me juntar ao seu time e fazer a diferença.
   
 #
-
-
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-
-  
-</div>
 
  
 <div style="text-align: center;" align="center">
