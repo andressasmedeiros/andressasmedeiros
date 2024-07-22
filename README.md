@@ -62,9 +62,14 @@
 <img src="https://static-00.iconduck.com/assets.00/github-octocat-icon-2048x1800-53ry4fpw.png" height="80"></a>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="80"></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" height="80"></a>
+</div>
 
+___________________________________________________________________________________________
 
 <img align="right" src="https://komarev.com/ghpvc/?username=andressasmedeiros&color=ff5aa4"><br>
+
+##
+
 <div align="center">
   <a href="https://github.com/andressasmedeiros">
   </a>
