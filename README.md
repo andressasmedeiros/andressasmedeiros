@@ -53,3 +53,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div> 
+   <h3 align="left">Certificações!</h3>
+<img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" height="100"></a>
+<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="100"></a>
+<img src="https://www.softplan.com.br/wp-content/uploads/2022/08/logo-dev-in-01.png" height="80"></a>
+<img src="https://static-00.iconduck.com/assets.00/github-octocat-icon-2048x1800-53ry4fpw.png" height="80"></a>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="80"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" height="80"></a>
+
+
+<picture align="center"> 
+  [![trophy](https://github-profile-trophy.vercel.app/?andressasmedeiros=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</picture>
