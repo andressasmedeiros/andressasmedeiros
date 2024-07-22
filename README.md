@@ -64,6 +64,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" height="80"></a>
 
 
-<picture align="center"> 
-  [![trophy](https://github-profile-trophy.vercel.app/?andressasmedeiros=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</picture>
+<img align="right" src="https://komarev.com/ghpvc/?username=andressasmedeiros&color=ff5aa4"><br>
+<div align="center">
+  <a href="https://github.com/andressasmedeiros">
+  </a>
+</div>
