@@ -43,10 +43,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
    <img align="center" alt="Rafa-Python" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png">
+   <img align="right" alt="" height="100px" src="https://i.picasion.com/pic92/b07558508f56851284a9e9f6bbd5e184.gif">
 </div>
-  <div>
-    <img align="right" alt="" height="100px" src="https://i.picasion.com/pic92/b07558508f56851284a9e9f6bbd5e184.gif">
-  </div>
+  
 <div> 
    <h3 align="left">Connect with me!</h3>
   <a href="https://instagram.com/andressadsms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
