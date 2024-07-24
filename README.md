@@ -73,8 +73,8 @@
 <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="110"></a>
 <img src="https://hermes.dio.me/tracks/e84c4b84-786b-4e4c-8c5f-0f5c8789652e.png" height="110"></a>
 <img src="https://www.softplan.com.br/wp-content/uploads/2022/08/logo-dev-in-01.png" height="90"></a>
-<img src="https://static-00.iconduck.com/assets.00/github-octocat-icon-2048x1800-53ry4fpw.png" height="80"></a>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="80"></a>
+<img src="https://static-00.iconduck.com/assets.00/github-octocat-icon-2048x1800-53ry4fpw.png" height="100"></a>
+
 
 </div>
 
