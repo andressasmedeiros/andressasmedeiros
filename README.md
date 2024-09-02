@@ -40,7 +40,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gitlab_logo_icon_169112.png">
   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
-   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png">
    <img align="center" alt="Rafa-Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">
   
    <img align="right" alt="" height="100px" src="https://i.picasion.com/pic92/b07558508f56851284a9e9f6bbd5e184.gif">
@@ -70,7 +69,6 @@
    <h3 align="left">Certificações!</h3>
 <img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" height="110"></a>
 <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="110"></a>
-<img src="https://hermes.dio.me/tracks/e84c4b84-786b-4e4c-8c5f-0f5c8789652e.png" height="110"></a>
 <img src="https://www.softplan.com.br/wp-content/uploads/2022/08/logo-dev-in-01.png" height="90"></a>
 <img src="https://static-00.iconduck.com/assets.00/github-octocat-icon-2048x1800-53ry4fpw.png" height="100"></a>
 
