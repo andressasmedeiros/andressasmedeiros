@@ -38,8 +38,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gitlab_logo_icon_169112.png">
-  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png">
    <img align="center" alt="Rafa-Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">
   
    <img align="right" alt="" height="100px" src="https://i.picasion.com/pic92/b07558508f56851284a9e9f6bbd5e184.gif">
