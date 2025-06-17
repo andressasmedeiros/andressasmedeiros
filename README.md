@@ -7,9 +7,9 @@
 
 #
 <p align="center">👋🏽 Oie aqui é a Andressa,
-de vendedora a desenvolvedora júnior. Após mais de 10 anos atuando em outras áreas, descobri minha paixão por tecnologia enquanto trabalhava como monitora de informática. Foi nesse momento que encontrei propósito e decidi seguir um novo caminho profissional. Desde então, venho me dedicando ao desenvolvimento de soluções práticas e funcionais, tanto no front-end quanto no back-end. Entre os projetos que desenvolvi, destaco um sistema de gerenciamento de estoque para farmácia, que otimizou a comunicação entre filial e motorista em aproximadamente 30%. Tenho conhecimento em front-end, back-end e integração com APIs REST, utilizando tecnologias como Node.js, TypeScript, Vue.js, Java, JSF e JavaScript. Estou em busca de oportunidades em empresas inovadoras, onde eu possa colaborar com a equipe, ajudar a resolver problemas reais e continuar evoluindo como desenvolvedora. 💻👩🏽‍💻✏️
+de vendedora a desenvolvedora júnior. Após mais de 10 anos atuando em outras áreas, descobri minha paixão por tecnologia enquanto trabalhava como monitora de informática. Foi nesse momento que encontrei propósito e decidi seguir um novo caminho profissional. Desde então, venho me dedicando ao desenvolvimento de soluções práticas e funcionais, tanto no front-end quanto no back-end. Entre os projetos que desenvolvi, destaco um sistema de gerenciamento de estoque para farmácia, que otimizou a comunicação entre filial e motorista em aproximadamente 30%. Tenho conhecimento em front-end, back-end e integração com APIs REST, utilizando tecnologias como Node.js, TypeScript, Vue.js, Java, JSF e JavaScript. Estou em busca de oportunidades em empresas inovadoras, onde eu possa colaborar com a equipe, ajudar a resolver problemas reais e continuar evoluindo como desenvolvedora. 💻👩🏽‍💻✏️</p>
 
-"Todos os seus sonhos podem se tornar realidade, se você tiver coragem de persegui-los" [Walt Disney].
+<p align="center">"Todos os seus sonhos podem se tornar realidade, se você tiver coragem de persegui-los" [Walt Disney].</p>
   
 #
 
