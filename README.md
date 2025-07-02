@@ -6,8 +6,21 @@
 
 
 #
-<p align="center">👋🏽 Oie aqui é a Andressa,
-de vendedora a desenvolvedora júnior. Após mais de 10 anos atuando em outras áreas, descobri minha paixão por tecnologia enquanto trabalhava como monitora de informática. Foi nesse momento que encontrei propósito e decidi seguir um novo caminho profissional. Desde então, venho me dedicando ao desenvolvimento de soluções práticas e funcionais, tanto no front-end quanto no back-end. Entre os projetos que desenvolvi, destaco um sistema de gerenciamento de estoque para farmácia, que otimizou a comunicação entre filial e motorista em aproximadamente 30%. Tenho conhecimento em front-end, back-end e integração com APIs REST, utilizando tecnologias como Node.js, TypeScript, Vue.js, Java, JSF e JavaScript. Estou em busca de oportunidades em empresas inovadoras, onde eu possa colaborar com a equipe, ajudar a resolver problemas reais e continuar evoluindo como desenvolvedora. 💻👩🏽‍💻✏️</p>
+<h1> 👋🏽 Oie aqui é a Andressa, </h1>
+<p>
+💻👩🏽‍💻 Desenvolvedora de software com experiência no desenvolvimento de aplicações web full stack, focada em entregar soluções funcionais, escaláveis e orientadas à resolução de problemas reais.
+
+Tenho atuado tanto no front-end quanto no back-end, com destaque para projetos como um sistema de gerenciamento de estoque para farmácia, que otimizou em cerca de 30% a comunicação entre filial e motorista. Possuo facilidade para aprender novas tecnologias, raciocínio lógico apurado e sou movida por desafios que exigem organização, criatividade e colaboração.
+
+➤Tecnologias e práticas aplicadas:
+-Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade, componentização, UX/UI
+-Back-end: Node.js, Java, Spring Boot, Express.js, JWT (autenticação)
+-Linguagens e ferramentas: TypeScript, RESTful APIs, SQL, PostgreSQL, Git (versionamento), TypeORM
+-Boas práticas: Clean Code, CI/CD, testes com Jest, cultura DevOps, metodologias ágeis (Scrum, Kanban)
+
+➤Soft skills: Comunicação clara, adaptabilidade, organização, foco em resultados, trabalho em equipe, empatia e aprendizado contínuo.
+
+Atualmente, busco oportunidades como Desenvolvedora Júnior, em ambientes que valorizem o crescimento técnico, o apoio entre equipes e o desenvolvimento profissional.</p>
 
 <p align="center">"Todos os seus sonhos podem se tornar realidade, se você tiver coragem de persegui-los" [Walt Disney].</p>
   
@@ -15,13 +28,9 @@ de vendedora a desenvolvedora júnior. Após mais de 10 anos atuando em outras �
 
  
 <div style="text-align: center;" align="center">
-  <h3> GitHub Stats </h3>
+  <h3> Meu Portfólio </h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andressasmedeiros&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF5AA4&text_color=FFF&border_radius=3&border_color=FF5AA4&icon_color=FF5AA4&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/mari4souza/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andressasmedeiros&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF5AA4&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FF5AA4&count_private=true" alt="Most Used Languages">
-  </a>
+  https://github.com](https://portfolioandressamedeiros.netlify.app/
  
 </div>
 
@@ -29,17 +38,17 @@ de vendedora a desenvolvedora júnior. Após mais de 10 anos atuando em outras �
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">
+  <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="logo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="logo-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="logo-trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
+  <img align="center" alt="logo-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="logo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="logo-vue" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   
    <img align="right" alt="" height="100px" src="https://i.picasion.com/pic92/b07558508f56851284a9e9f6bbd5e184.gif">
 </div>
