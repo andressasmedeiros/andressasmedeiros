@@ -33,7 +33,7 @@ Atualmente, busco oportunidades como Desenvolvedora Júnior, em ambientes que va
 <div style="text-align: center;" align="center">
   <h3> Meu Portfólio </h3>
   <br>
-  https://github.com](https://portfolioandressamedeiros.netlify.app/
+   https://portfolioandressamedeiros.netlify.app/
  
 </div>
 
