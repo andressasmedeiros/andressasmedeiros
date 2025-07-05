@@ -19,9 +19,20 @@ Tenho atuado tanto no front-end quanto no back-end, com destaque para projetos c
 
 -Linguagens e ferramentas: TypeScript, RESTful APIs, SQL, PostgreSQL, Git (versionamento), TypeORM
 
-## ➤Boas práticas: Clean Code, CI/CD, testes com Jest, cultura DevOps, metodologias ágeis (Scrum, Kanban)
+## ➤Boas práticas:
+- Clean Code, CI/CD,
+- testes com Jest,
+- cultura DevOps,
+- metodologias ágeis (Scrum, Kanban)
 
-## ➤Soft skills: Comunicação clara, adaptabilidade, organização, foco em resultados, trabalho em equipe, empatia e aprendizado contínuo.
+## ➤Soft skills:
+- Comunicação clara,
+- adaptabilidade,
+- organização,
+- foco em resultados,
+- trabalho em equipe,
+- empatia,
+- aprendizado contínuo.
 
 Atualmente, busco oportunidades como Desenvolvedora Júnior, em ambientes que valorizem o crescimento técnico, o apoio entre equipes e o desenvolvimento profissional.</p>
 
