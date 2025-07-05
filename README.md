@@ -13,11 +13,11 @@
 Tenho atuado tanto no front-end quanto no back-end, com destaque para projetos como um sistema de gerenciamento de estoque para farmácia, que otimizou em cerca de 30% a comunicação entre filial e motorista. Possuo facilidade para aprender novas tecnologias, raciocínio lógico apurado e sou movida por desafios que exigem organização, criatividade e colaboração.
 
 ## ➤Tecnologias e práticas aplicadas:
--Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade, componentização, UX/UI
+- Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade, componentização, UX/UI
 
--Back-end: Node.js, Java, Spring Boot, Express.js, JWT (autenticação)
+- Back-end: Node.js, Java, Spring Boot, Express.js, JWT (autenticação)
 
--Linguagens e ferramentas: TypeScript, RESTful APIs, SQL, PostgreSQL, Git (versionamento), TypeORM
+- Linguagens e ferramentas: TypeScript, RESTful APIs, SQL, PostgreSQL, Git (versionamento), TypeORM
 
 ## ➤Boas práticas:
 - Clean Code, CI/CD,
