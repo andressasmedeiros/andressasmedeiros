@@ -21,7 +21,7 @@ Tenho atuado tanto no front-end quanto no back-end, com destaque para projetos c
 
 ## ➤Boas práticas:
 - Clean Code, CI/CD,
-- testes com Jest,
+- testes unitários,
 - cultura DevOps,
 - metodologias ágeis (Scrum, Kanban)
 
