@@ -12,20 +12,18 @@
 
 Tenho atuado tanto no front-end quanto no back-end, com destaque para projetos como um sistema de gerenciamento de estoque para farmácia, que otimizou em cerca de 30% a comunicação entre filial e motorista. Possuo facilidade para aprender novas tecnologias, raciocínio lógico apurado e sou movida por desafios que exigem organização, criatividade e colaboração.
 
-## ➤Tecnologias e práticas aplicadas:
+## Tecnologias e práticas aplicadas:
 - Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade, componentização, UX/UI
-
 - Back-end: Node.js, Java, Spring Boot, Express.js, JWT (autenticação)
-
 - Linguagens e ferramentas: TypeScript, RESTful APIs, SQL, PostgreSQL, Git (versionamento), TypeORM
 
-## ➤Boas práticas:
+## Boas práticas:
 - Clean Code, CI/CD,
 - testes unitários,
 - cultura DevOps,
 - metodologias ágeis (Scrum, Kanban)
 
-## ➤Soft skills:
+## Soft skills:
 - Comunicação clara,
 - adaptabilidade,
 - organização,
@@ -37,18 +35,11 @@ Tenho atuado tanto no front-end quanto no back-end, com destaque para projetos c
 Atualmente, busco oportunidades como Desenvolvedora Júnior, em ambientes que valorizem o crescimento técnico, o apoio entre equipes e o desenvolvimento profissional.</p>
 
 <p align="center">"Todos os seus sonhos podem se tornar realidade, se você tiver coragem de persegui-los" [Walt Disney].</p>
-  
-#
 
- 
-<div style="text-align: center;" align="center">
-  <h3> Meu Portfólio </h3>
+# <h1 align="center"> [Meu Portfólio](https://portfolioandressamedeiros.netlify.app/) </h1>
   <br>
-   https://portfolioandressamedeiros.netlify.app/
  
 </div>
-
-##
 
 
 <div style="display: inline_block"><br>
@@ -90,9 +81,19 @@ Atualmente, busco oportunidades como Desenvolvedora Júnior, em ambientes que va
 
 <div align="center"> 
    <h3 align="left">Certificações!</h3>
-<img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" height="110"></a>
 <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="110"></a>
 <img src="https://www.softplan.com.br/wp-content/uploads/2022/08/logo-dev-in-01.png" height="90"></a>
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/b3e530e2-baa7-4d31-a46a-c7d1105312dd" />
+<img width="140" height="120" alt="image" src="https://github.com/user-attachments/assets/34f4f444-3404-4fbc-8a3c-ebbdd9266883" />
+<img width="146" height="120" alt="image" src="https://github.com/user-attachments/assets/4d1f4d4a-5567-4a13-92d7-5a169748f5eb" />
+<img width="147" height="120" alt="image" src="https://github.com/user-attachments/assets/8a78591d-2fe8-4245-b194-f46dda6d6974" />
+<img width="147" height="120" alt="image" src="https://github.com/user-attachments/assets/310d9ad3-1efe-4c14-9eca-98bd57ddc44f" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/258b6ed8-1d4f-492a-9908-f499c443d438" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/1287d045-acf6-4283-af12-0895f71f2e26" />
+
+
+
+
 
 
 </div>
