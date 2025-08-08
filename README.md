@@ -82,19 +82,17 @@ Atualmente, busco oportunidades como Desenvolvedora Júnior, em ambientes que va
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 <div align="center"> 
    <h3 align="left">Certificações!</h3>
 <img src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" height="110"></a>
 <img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="110"></a>
 <img src="https://www.softplan.com.br/wp-content/uploads/2022/08/logo-dev-in-01.png" height="90"></a>
-<img src="https://static-00.iconduck.com/assets.00/github-octocat-icon-2048x1800-53ry4fpw.png" height="100"></a>
 
 
 </div>
