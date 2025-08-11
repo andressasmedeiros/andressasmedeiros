@@ -87,7 +87,6 @@ Atualmente, busco oportunidades como Desenvolvedora Júnior, em ambientes que va
 <img width="140" height="120" alt="image" src="https://github.com/user-attachments/assets/34f4f444-3404-4fbc-8a3c-ebbdd9266883" />
 <img width="146" height="120" alt="image" src="https://github.com/user-attachments/assets/4d1f4d4a-5567-4a13-92d7-5a169748f5eb" />
 <img width="147" height="120" alt="image" src="https://github.com/user-attachments/assets/8a78591d-2fe8-4245-b194-f46dda6d6974" />
-<img width="147" height="120" alt="image" src="https://github.com/user-attachments/assets/310d9ad3-1efe-4c14-9eca-98bd57ddc44f" />
 <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/258b6ed8-1d4f-492a-9908-f499c443d438" />
 <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/1287d045-acf6-4283-af12-0895f71f2e26" />
 
