@@ -78,25 +78,6 @@ Atualmente, busco oportunidades como Desenvolvedora Júnior, em ambientes que va
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/pacman-contribution-graph.svg">
 </picture>
 
-
-<div align="center"> 
-   <h3 align="left">Certificações!</h3>
-<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height="110"></a>
-<img src="https://www.softplan.com.br/wp-content/uploads/2022/08/logo-dev-in-01.png" height="90"></a>
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/b3e530e2-baa7-4d31-a46a-c7d1105312dd" />
-<img width="140" height="120" alt="image" src="https://github.com/user-attachments/assets/34f4f444-3404-4fbc-8a3c-ebbdd9266883" />
-<img width="146" height="120" alt="image" src="https://github.com/user-attachments/assets/4d1f4d4a-5567-4a13-92d7-5a169748f5eb" />
-<img width="147" height="120" alt="image" src="https://github.com/user-attachments/assets/8a78591d-2fe8-4245-b194-f46dda6d6974" />
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/258b6ed8-1d4f-492a-9908-f499c443d438" />
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/1287d045-acf6-4283-af12-0895f71f2e26" />
-
-
-
-
-
-
-</div>
-
 ___________________________________________________________________________________________
 
 <img align="right" src="https://komarev.com/ghpvc/?username=andressasmedeiros&color=ff5aa4"><br>
