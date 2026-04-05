@@ -3,7 +3,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5AA4&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-
+<div>
+   <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/fde01412-e440-48ce-9486-3ab471bc2267" />
+</div>
 #
 
 <h1> 👋🏽 Oie, aqui é a Andressa </h1>
