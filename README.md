@@ -4,87 +4,90 @@
   </a>
 </div>
 
-
 #
-<h1> 👋🏽 Oie aqui é a Andressa, </h1>
+
+<h1> 👋🏽 Oie, aqui é a Andressa </h1>
+
 <p>
-💻👩🏽‍💻 Desenvolvedora de software com experiência no desenvolvimento de aplicações web full stack, focada em entregar soluções funcionais, escaláveis e orientadas à resolução de problemas reais.
+💻👩🏽‍💻 QA Engineer em formação com base sólida em desenvolvimento de software. Experiência com testes manuais, testes de API (REST), testes unitários (Jest) e automação com Cypress e Playwright.  
 
-Tenho atuado tanto no front-end quanto no back-end, com destaque para projetos como um sistema de gerenciamento de estoque para farmácia, que otimizou em cerca de 30% a comunicação entre filial e motorista. Possuo facilidade para aprender novas tecnologias, raciocínio lógico apurado e sou movida por desafios que exigem organização, criatividade e colaboração.
+Atuação em criação de casos de teste, análise de requisitos, identificação e reporte de bugs, sempre com foco na qualidade e confiabilidade das aplicações.  
 
-## Tecnologias e práticas aplicadas:
-- Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade, componentização, UX/UI
-- Back-end: Node.js, Java, Spring Boot, Express.js, JWT (autenticação)
-- Linguagens e ferramentas: TypeScript, RESTful APIs, SQL, PostgreSQL, Git (versionamento), TypeORM
+Busco minha primeira oportunidade como QA Engineer, contribuindo para a entrega de software bem testado, estável e de alta qualidade.
+</p>
 
-## Boas práticas:
-- Clean Code, CI/CD,
-- testes unitários,
-- cultura DevOps,
-- metodologias ágeis (Scrum, Kanban)
+---
 
-## Soft skills:
-- Comunicação clara,
-- adaptabilidade,
-- organização,
-- foco em resultados,
-- trabalho em equipe,
-- empatia,
-- aprendizado contínuo.
+## 🧪 Tecnologias e práticas de QA:
+- Testes manuais (funcionais, regressão e exploratórios)  
+- Testes de API (Postman / REST)  
+- Automação de testes (Cypress, Playwright)  
+- Criação de casos de teste e reporte de bugs  
+- SDLC e STLC  
 
-Atualmente, busco oportunidades como Desenvolvedora Júnior, em ambientes que valorizem o crescimento técnico, o apoio entre equipes e o desenvolvimento profissional.</p>
+---
 
-<p align="center">"Todos os seus sonhos podem se tornar realidade, se você tiver coragem de persegui-los" [Walt Disney].</p>
+## 💻 Background em desenvolvimento:
+- Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade  
+- Back-end: Node.js, Java, Spring Boot, Express.js, JWT  
+- Ferramentas: TypeScript, SQL, PostgreSQL, Git, TypeORM  
 
-# <h1 align="center"> [Meu Portfólio](https://portfolioandressamedeiros.netlify.app/) </h1>
-  <br>
- 
-</div>
+---
 
+## ⚙️ Boas práticas:
+- Clean Code  
+- CI/CD  
+- Metodologias ágeis (Scrum, Kanban)  
+- Cultura DevOps  
+
+---
+
+## 🧠 Soft skills:
+- Comunicação clara  
+- Pensamento crítico  
+- Atenção aos detalhes  
+- Organização  
+- Trabalho em equipe  
+- Aprendizado contínuo  
+
+---
+
+<p align="center">
+"Todos os seus sonhos podem se tornar realidade, se você tiver coragem de persegui-los" — Walt Disney
+</p>
+
+---
+
+# <h2 align="center"> 🚀 <a href="https://portfolioandressamedeiros.netlify.app/">Meu Portfólio</a> </h2>
+
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="logo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="logo-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="logo-trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
   <img align="center" alt="logo-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="logo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="logo-vue" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  
-   <img align="right" alt="" height="100px" src="https://i.picasion.com/pic92/b07558508f56851284a9e9f6bbd5e184.gif">
+  <img align="center" alt="Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
+  <img align="center" alt="Playwright" height="30" width="40" src="https://playwright.dev/img/playwright-logo.svg">
+  <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 </div>
-  
+
+---
+
+## 🌐 Connect with me!
 <div> 
-   <h3 align="left">Connect with me!</h3>
-  <a href="https://instagram.com/andressadsms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoandressa.scharaiber@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andressasmedeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.facebook.com/andressa.dasilvamedeiros.3/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-
-
- 
-  
+  <a href="https://instagram.com/andressadsms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:andressasmedeiross@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/andressasmedeiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-##
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/andressasmedeiros/andressasmedeiros/output/pacman-contribution-graph.svg">
 </picture>
-
-___________________________________________________________________________________________
-
-<img align="right" src="https://komarev.com/ghpvc/?username=andressasmedeiros&color=ff5aa4"><br>
-
-##
-
-<div align="center">
-  <a href="https://github.com/andressasmedeiros">
-  </a>
-</div>
