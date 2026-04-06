@@ -1,12 +1,13 @@
+
+<div>
+   <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/fde01412-e440-48ce-9486-3ab471bc2267" />
+</div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5AA4&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-<div>
-   <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/fde01412-e440-48ce-9486-3ab471bc2267" />
-</div>
-#
 
 <h1> 👋🏽 Oie, aqui é a Andressa </h1>
 
@@ -20,7 +21,7 @@ Busco minha primeira oportunidade como QA Engineer, contribuindo para a entrega 
 
 ---
 
-## 🧪 Tecnologias e práticas de QA:
+## Tecnologias e práticas de QA:
 - Testes manuais (funcionais, regressão e exploratórios)  
 - Testes de API (Postman / REST)  
 - Automação de testes (Cypress, Playwright)  
@@ -29,14 +30,14 @@ Busco minha primeira oportunidade como QA Engineer, contribuindo para a entrega 
 
 ---
 
-## 💻 Background em desenvolvimento:
+## Background em desenvolvimento:
 - Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade  
 - Back-end: Node.js, Java, Spring Boot, Express.js, JWT  
 - Ferramentas: TypeScript, SQL, PostgreSQL, Git, TypeORM  
 
 ---
 
-## ⚙️ Boas práticas:
+## Boas práticas:
 - Clean Code  
 - CI/CD  
 - Metodologias ágeis (Scrum, Kanban)  
@@ -44,7 +45,7 @@ Busco minha primeira oportunidade como QA Engineer, contribuindo para a entrega 
 
 ---
 
-## 🧠 Soft skills:
+## Soft skills:
 - Comunicação clara  
 - Pensamento crítico  
 - Atenção aos detalhes  
