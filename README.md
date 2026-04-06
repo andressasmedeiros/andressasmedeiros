@@ -61,7 +61,7 @@ Busco minha primeira oportunidade como QA Engineer, contribuindo para a entrega 
 
 ---
 
-# <h2 align="center"> 🚀 <a href="https://portfolioandressamedeiros.netlify.app/">Meu Portfólio</a> </h2>
+# <h2 align="center"> <a href="https://portfolioandressamedeiros.netlify.app/">Meu Portfólio</a> </h2>
 
 <br>
 
