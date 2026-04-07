@@ -32,9 +32,9 @@ Busco minha primeira oportunidade como QA Engineer, contribuindo para a entrega 
 ---
 
 ## Background em desenvolvimento:
-- Front-end: Vue.js, JavaScript, PrimeVue, PrimeFlex, responsividade  
-- Back-end: Node.js, Java, Spring Boot, Express.js, JWT  
-- Ferramentas: TypeScript, SQL, PostgreSQL, Git, TypeORM  
+- Front-end: Vue.js, JavaScript, responsividade  
+- Back-end: Node.js, Java, Spring Boot, JWT  
+- Ferramentas: TypeScript, SQL, PostgreSQL, Git
 
 ---
 
