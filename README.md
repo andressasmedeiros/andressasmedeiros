@@ -9,10 +9,10 @@
   </a>
 </div>
 
-<h1> 👋🏽 Oie, aqui é a Andressa </h1>
+<h1> Oie, aqui é a Andressa </h1>
 
 <p>
-💻👩🏽‍💻 QA Engineer em formação com base sólida em desenvolvimento de software. Experiência com testes manuais, testes de API (REST), testes unitários (Jest) e automação com Cypress e Playwright.  
+QA Engineer em formação com base sólida em desenvolvimento de software. Experiência com testes manuais, testes de API (REST), testes unitários (Jest) e automação com Cypress e Playwright.  
 
 Atuação em criação de casos de teste, análise de requisitos, identificação e reporte de bugs, sempre com foco na qualidade e confiabilidade das aplicações.  
 
@@ -22,11 +22,12 @@ Busco minha primeira oportunidade como QA Engineer, contribuindo para a entrega 
 ---
 
 ## Tecnologias e práticas de QA:
-- Testes manuais (funcionais, regressão e exploratórios)  
-- Testes de API (Postman / REST)  
-- Automação de testes (Cypress, Playwright)  
-- Criação de casos de teste e reporte de bugs  
-- SDLC e STLC  
+- Testes manuais (funcionais, regressão e exploratórios)
+- Testes de API (Postman / REST)
+- Automação de testes E2E (Cypress, Playwright)
+- Testes unitários e de integração (Jest)
+- Criação de casos de teste e reporte de bugs
+- Conhecimento em SDLC e STLC
 
 ---
 
