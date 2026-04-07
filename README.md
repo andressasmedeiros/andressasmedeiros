@@ -77,6 +77,7 @@ Busco minha primeira oportunidade como QA Engineer, contribuindo para a entrega 
   <img align="center" alt="Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
   <img align="center" alt="Playwright" height="30" width="40" src="https://playwright.dev/img/playwright-logo.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align="center" alt="Jest" height="30" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
 </div>
 
 ---
