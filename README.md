@@ -1,6 +1,7 @@
 
 <div>
-   <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/fde01412-e440-48ce-9486-3ab471bc2267" />
+   <img width="1400" height="349" alt="image" src="<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/eb7995e9-6214-43d0-98d3-5a6010d56449" />
+" />
 </div>
 
 <div align="center">
@@ -22,17 +23,18 @@ Busco minha primeira oportunidade como QA Engineer, contribuindo para a entrega 
 ---
 
 ## Tecnologias e práticas de QA:
-- Testes manuais (funcionais, regressão e exploratórios)
-- Testes de API (Postman / REST)
-- Automação de testes E2E (Cypress, Playwright)
 - Testes unitários e de integração (Jest)
-- Criação de casos de teste e reporte de bugs
-- Conhecimento em SDLC e STLC
+- Testes de API com Postman
+- Automação de testes E2E com Cypress e automatizados de interface com Playwright
+- Definição de cenários de teste em BDD (Gherkin)
+- Identificação e documentação de bugs
+- Participação em projeto em equipe simulando ambiente ágil
+
 
 ---
 
 ## Background em desenvolvimento:
-- Front-end: Vue.js, JavaScript, responsividade  
+- Front-end: Vue.js, JavaScript, HTML, CSS, responsividade  
 - Back-end: Node.js, Java, Spring Boot, JWT  
 - Ferramentas: TypeScript, SQL, PostgreSQL, Git
 
